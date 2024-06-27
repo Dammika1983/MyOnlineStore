@@ -1,0 +1,125 @@
+<!--
+  -- Student Name: Dammika Pathirana
+  -- Student ID: 041089481
+  -- Course: CST8117 - Cross-Platform Web Design
+  -- Semester: 23W
+  -- Assignment: 4
+  -- Date Submitted:  16/04/2023
+  -->
+
+<!DOCTYPE html>
+  <html lang="en-ca"> <!--initiate the language---->
+	<head>
+		<!--Include the Title of the Website-->
+		<title>Super20</title>
+		
+		<!--Link the main.css fie-->
+		<link rel="stylesheet" href="assets/products.css">
+		<link rel="stylesheet" href="assets/main.css">
+		
+		<!--Decalare the meta type and content-->
+		<meta type="keywords" content="Super20, online store">
+		
+		<!--Add the viewport meta tag to the head section of every page on your website, with the device-width value and initial scaling set to 1.-->
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+		<nav>
+			
+					<li><a href="index.htm">Home</a>
+					
+							
+					</li>
+				</ul>
+			
+			</nav>
+		
+		
+		
+	</head>
+<body>
+  <main class="main-styles">
+    
+
+    <section>
+		<!--Decalre the Cart Product-->
+        <div class="cart-product">
+            <img src="images/cap2.jpg" alt="Cap" class="cart-product-img">
+            <div class="cart-product-details">
+                <div class="cart-details">
+                    <h4>Cap</h3>
+                    <p>$9.99</p>
+                </div>
+                <div>
+                    <h4>Quantity</h4> <!--Decalre the Product quantity--->
+                    <select name="qty" id="qty">
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                    </select>
+                </div>
+                <div>
+                    <button>Remove</button> <!--Decalare the remove buttion--->
+                </div>
+            </div>
+        </div>
+        <div class="cart-product">
+            <img src="images/tshirt3.jpg" alt="Tshirt" class="cart-product-img">
+            <div class="cart-product-details">
+                <div class="cart-details">
+                    <h4>Tshirt</h3>
+                    <p>$4.99</p>
+                </div>
+                <div>
+                    <h4>Quantity</h4>
+                    <select name="qty" id="qty">
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                    </select>
+                </div>
+                <div>
+                    <button>Remove</button>
+                </div>
+            </div>
+        </div>
+        <div class="order-summary"> <!--Decalre the Order summary including price--->
+            <h3>Order Summary</h3>
+            <div class="subtotal">
+                <h4>
+                    Product Subtotal
+                </h4>
+                <p>
+                    $14.98
+                </p>
+            </div>
+            <div class="subtotal">
+                <h4>
+                    Total
+                </h4>
+                <p>
+                    $14.98
+                </p>
+            </div>
+            <div class="subtotal">
+                <h4>
+                    Sales Tax
+                </h4>
+                <p>
+                    $1.95
+                </p>
+            </div>
+            <div class="grand-total">
+                <h4>
+                    Grand Total
+                </h4>
+                <p>
+                    $16.93
+                </p>
+            </div>
+            <button type="submit" class="place-order">Place Order</button>
+        </div>
+    </section>
+
+    </main>
+</body>
+</html>

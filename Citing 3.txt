@@ -1,0 +1,36 @@
+
+
+
+//https://stackoverflow.com/questions/3224834/get-difference-between-2-dates-in-javascript
+chobo2chobo2                    82.5k194194 gold badges523523 silver badges825825 bronze badges, TNiTNi                    15.8k22 gold badges2121 silver badges2020 bronze badges, Shyam HabarakadaShyam Habarakada                    15k33 gold badges3434 silver badges4747 bronze badges, volkan ervolkan er                    95655 silver badges66 bronze badges, Mikeys4uMikeys4u                    1, &amp; Pec1983Pec1983                    34644 silver badges88 bronze badges. (1957, May 1). Get difference between 2 dates in JavaScript? Stack Overflow. Retrieved March 22, 2023, from https://stackoverflow.com/questions/3224834/get-difference-between-2-dates-in-javascript 
+
+
+https://bobbyhadz.com/blog/javascript-check-if-character-in-string-is-number
+Check if a character is a number using JavaScript. bobbyhadz. (n.d.). Retrieved March 22, 2023, from https://bobbyhadz.com/blog/javascript-check-if-character-in-string-is-number
+
+https://www.simplilearn.com/tutorials/javascript-tutorial/email-validation-in-javascript
+Sufiyan, T. (2022, November 25). How to do an email validation in JavaScript? [with examples]: Simplilearn. Simplilearn.com. Retrieved March 22, 2023, from https://www.simplilearn.com/tutorials/javascript-tutorial/email-validation-in-javascript 
+
+
+
+https://stackoverflow.com/questions/46155/how-can-i-validate-an-email-address-in-javascript
+How can I validate an email address in JavaScript? Stack Overflow. (1955, July 1). Retrieved March 22, 2023, from https://stackoverflow.com/questions/46155/how-can-i-validate-an-email-address-in-javascript 
+
+https://www.w3schools.com/css/tryit.asp?filename=trycss_mediaqueries_hide2
+W3Schools online HTML editor. W3Schools Online Web Tutorials. (n.d.). Retrieved March 22, 2023, from https://www.w3schools.com/css/tryit.asp?filename=trycss_mediaqueries_hide2 
+
+https://www.w3schools.com/css/css_rwd_mediaqueries.asp
+Responsive web design - media queries. Responsive Web Design Media Queries. (n.d.). Retrieved March 22, 2023, from https://www.w3schools.com/css/css_rwd_mediaqueries.asp 
+
+
+https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_topnav
+W3Schools online HTML editor. W3Schools Online Web Tutorials. (n.d.). Retrieved March 22, 2023, from https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_topnav 
+
+https://www.w3schools.com/css/css_rwd_mediaqueries.asp
+Responsive web design - media queries. Responsive Web Design Media Queries. (n.d.). Retrieved March 22, 2023, from https://www.w3schools.com/css/css_rwd_mediaqueries.asp 
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/Date
+Date() constructor - javascript: MDN. JavaScript | MDN. (n.d.). Retrieved March 22, 2023, from https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/Date 
+
+https://www.ibm.com/docs/en/zos/2.2.0?topic=operators-string-concatenation
+String concatenation. IBM. (n.d.). Retrieved March 22, 2023, from https://www.ibm.com/docs/en/zos/2.2.0?topic=operators-string-concatenation 

@@ -1,0 +1,112 @@
+/*
+ * Student Name: Dammika Pathirana 
+ * Student ID: 041089481
+ * Course: CST8117 - Cross-Platform Web Design
+ * Semester: 22W
+ * Assignment: 4
+ * Date Submitted:: 16/04/23  
+ */
+
+/* Include media queries to test for landscape orientation, and mobile and desktop designs
+ Citation: https://www.w3schools.com/css/css_rwd_mediaqueries.asp
+ Date Retrived:21/03/23
+ Notes: Copied & Used 1 CSS style for media queries When screen goes to mobile version it will display white in background.
+ desktop version background color turn to red
+ */
+ 
+ body {
+	background-color: white;
+}
+
+	@media only screen and (orientation: landscape) {
+ body {
+    background-color: red;
+  }
+}
+
+/* header CSS
+ Citation:https://www.w3schools.com/howto/howto_css_about_page.asp
+ Date Retrived:24/02/23
+ Notes: Copied & Used 4 CSS style for header
+ */
+header {
+  font-family: Helvetica, sans-serif;
+  margin: 0;
+  background-color: lightyellow;
+}
+
+
+.about-us {
+  padding: 100px;
+  text-align: center;
+  background-color: red;
+  color: white;
+}
+
+	
+
+.privacy {
+  padding: 100px;
+  text-align: center;
+  background-color: red;
+  color: white;
+}
+
+.terms {
+  padding: 50px;
+  text-align: center;
+  background-color: red;
+  color: white;
+}
+
+.cart-product-img {
+    max-width: 200px;
+}
+main {
+	background-color: lightyellow;
+}
+
+
+.cart-product {
+    display: flex;
+    justify-content: left;
+    gap: 40px;
+    margin-bottom: 50px;
+	
+}
+
+.cart-product-details {
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+	background-color: lightyellow;
+}
+
+.cart-details {
+    display: flex;
+    justify-content: space-between;
+	background-color: limegreen;
+}
+
+.order-summary {
+    width: 800px;
+    margin: 1 auto;
+	background-color: red;
+	text-align: center;
+}
+
+.subtotal, .grand-total {
+    display: flex;
+    justify-content: space-between;
+	background-color: red;
+}
+
+.place-order {
+    width: 700px;
+    color: white;
+    background-color: green;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+

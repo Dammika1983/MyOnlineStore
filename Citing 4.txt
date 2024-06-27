@@ -1,0 +1,37 @@
+https://getbootstrap.com/docs/4.6/components/forms/
+Mark Otto, J. T. (n.d.). Forms. · Bootstrap v4.6. Retrieved April 16, 2023, from https://getbootstrap.com/docs/4.6/components/forms/ 
+
+https://getbootstrap.com/docs/4.0/layout/grid/
+Mark Otto, J. T. (n.d.). Grid system. · Bootstrap. Retrieved April 16, 2023, from https://getbootstrap.com/docs/4.0/layout/grid/ 
+
+https://getbootstrap.com/docs/4.0/components/alerts/
+Mark Otto, J. T. (n.d.). Alerts. · Bootstrap. Retrieved April 16, 2023, from https://getbootstrap.com/docs/4.0/components/alerts/ 
+
+
+https://getcssscan.com/css-box-shadow-examples
+Beautiful CSS box-shadow examples - CSS scan. 93 Beautiful CSS box-shadow examples - CSS Scan. (n.d.). Retrieved April 16, 2023, from https://getcssscan.com/css-box-shadow-examples 
+
+
+https://bbbootstrap.com/snippets/form-input-mask-14952585
+Team, B. B. B. (n.d.). Bootstrap 4 form input mask example. Example. Retrieved April 16, 2023, from https://bbbootstrap.com/snippets/form-input-mask-14952585 
+
+https://www.tutorialspoint.com/extract-a-number-from-a-string-using-javascript
+Extract a number from a string using JavaScript. Tutorials Point. (n.d.). Retrieved April 16, 2023, from https://www.tutorialspoint.com/extract-a-number-from-a-string-using-javascript 
+
+https://cdnjs.com/libraries/jquery
+Jquery - libraries - cdnjs - the #1 free and open source CDN built to make life easier for developers. cdnjs. (n.d.). Retrieved April 16, 2023, from https://cdnjs.com/libraries/jquery 
+
+https://getbootstrap.com/docs/4.4/getting-started/introduction/
+Mark Otto, J. T. (n.d.). Introduction. · Bootstrap. Retrieved April 16, 2023, from https://getbootstrap.com/docs/4.4/getting-started/introduction/ 
+
+https://www.smashingmagazine.com/2017/07/designing-perfect-date-time-picker/ 
+Friedman, V., About The AuthorVitaly Friedman loves beautiful content and doesn’t like to give in easily. When he is not writing, &amp; Author, A. T. (2017, July 5). Designing the perfect date and Time Picker. Smashing Magazine. Retrieved April 16, 2023, from https://www.smashingmagazine.com/2017/07/designing-perfect-date-time-picker/ 
+
+https://jqueryvalidation.org/
+JQuery validation plugin | form validation with jQuery. (n.d.). Retrieved April 17, 2023, from https://jqueryvalidation.org/ 
+
+https://www.javatpoint.com/calculate-age-using-javascript
+Calculate age using JavaScript - javatpoint. www.javatpoint.com. (n.d.). Retrieved April 16, 2023, from https://www.javatpoint.com/calculate-age-using-javascript 
+
+https://api.jquery.com/category/events/
+js.foundation, J. S. F.-. (n.d.). Category: Events. Events | jQuery API Documentation. Retrieved April 16, 2023, from https://api.jquery.com/category/events/ 

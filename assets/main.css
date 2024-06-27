@@ -1,0 +1,215 @@
+/*
+ * Student Name: Dammika Pathirana 
+ * Student ID: 041089481
+ * Course: CST8117 - Cross-Platform Web Design
+ * Semester: 22W
+ * Assignment: 4
+ * Date Submitted:: 16/04/23  
+ */
+/* Include media queries to test for landscape orientation, and mobile and desktop designs
+ Citation: https://www.w3schools.com/css/css_rwd_mediaqueries.asp
+ Date Retrived:21/03/23
+ Notes: Copied & Used 1 CSS style for media queries When screen goes to mobile version it will display white in background.
+ desktop version background color turn to red
+ */
+ 
+ body {
+	background-color: white;
+}
+
+	@media only screen and (orientation: landscape) {
+ /* body {
+    background-color: red;
+  } */
+}
+   
+ /* header CSS
+ Citation: https://www.w3schools.com/howto/howto_css_style_header.asp
+ Date Retrived:03/02/23
+ Notes: Copied & Used 1 CSS style for header
+ */
+
+
+.header {
+  padding: 15px;
+  text-align: center;
+  background: red;
+  color: black;
+  font-size: 30px;
+  font-family: Helvetica;
+  
+}
+
+/* main CSS
+ Citation:https://www.w3schools.com/tags/tag_main.asp
+ Date Retrived:03/02/23
+ Notes: Copied & Used 1 CSS style for main
+ */
+main {
+  margin: 5;
+  padding: 25px;
+  background-color: lightyellow;
+}
+
+
+/*Style The Navigation Bar
+Citation:https://www.w3schools.com/css/css_navbar_horizontal.asp
+ Date Retrived:03/02/23
+ Notes: Copied & Used 4 CSS style for Navigation bar
+*/
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 15px;
+  overflow: hidden;
+  background-color: limegreen;
+  
+}
+
+li {
+  float: right;
+
+}
+
+li a{
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 18px 20px;
+  text-decoration: arial;
+  @media (max-width:$mobile) {
+	  display:inline;
+  }
+ 
+}
+
+li a:hover {
+  background-color: white;
+}
+
+/* For mobile displays, switch to using a hamburger menu, and consider moving your main navigation menu to the bottom of the page.
+ Citation: https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_topnav
+ Date Retrived:22/03/23
+ Notes: Copied & Used 3 CSS style for header
+ */
+
+li a.icon {
+  display: none;
+}
+
+@media only screen and (max-width: 500px) {
+ li a.icon {
+    float: right;
+    display: block;
+  }
+  
+  li a.menu-items {
+	  display: none;
+  }
+}
+
+
+
+
+/*Style The Search Bar
+Citation:https://www.w3schools.com/howto/howto_css_searchbar.asp
+ Date Retrived:03/02/23
+ Notes: Copied & used 4 CSS style for search bar
+*/
+
+ul input[type=text] {
+  padding: 8px;
+  margin-top: 10px;
+  font-size: 16px;
+  border: solid;
+  
+  
+}
+
+.search-container {
+  float: right;
+}
+
+.search-container button {
+  float: right;
+  padding: 8px;
+  margin-top: 10px;
+  margin-right: 16px;
+  background: white;
+  font-size: 16px;
+  border: solid;
+  cursor: pointer;
+}
+
+.search-container button:hover {
+  background: #ccc;
+}
+
+/*CSS the Product card
+Citation:https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_product_card
+ Date Retrived:03/02/23
+ Notes: Copied & used 4 CSS style for Product card
+*/
+ .card {
+  box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.2);
+  max-width: 280px;
+  margin: auto;
+  text-align: center;
+  font-family: courier;
+  font-size: 15px
+  
+  
+  
+}
+
+/*CSS for Dsiplay two image in mobile screen
+Citation:https://www.w3schools.com/css/tryit.asp?filename=trycss_mediaqueries_hide2
+ Date Retrived:03/02/23
+ Notes: Copied & used 1 CSS style for Product card (mobile scrren)
+*/
+
+@media screen and (max-width: 500px) {
+  div.card {
+    display: two;
+  }
+}
+  
+.price {
+  color: black;
+  font-size: 22px;
+}
+
+.card button {
+  border: none;
+  outline: 0;
+  padding: 20px;
+  color: white;
+  background-color: red;
+  text-align: center;
+  cursor: pointer;
+  width: 90%;
+  font-size: 16px;
+}
+	
+	
+	
+
+.card button:hover {
+  opacity: 0.9;
+}
+
+
+
+
+/*CSS the Copyright
+Citation:https://www.w3schools.com/tags/tag_footer.asp
+ Date Retrived:03/02/23
+ Notes: Copied & used 1 CSS style for copyright
+*/
+footer {
+  text-align: center;
+  padding: 6px;
+  background-color: limegreen;
+  color: black;
+}

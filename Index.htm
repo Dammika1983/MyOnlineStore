@@ -1,0 +1,101 @@
+<!--
+  -- Student Name: Dammika Pathirana
+  -- Student ID: 041089481
+  -- Course: CST8117 - Cross-Platform Web Design
+  -- Semester: 23W
+  -- Assignment: 4
+  -- Date Submitted:  16/04/2023
+  -->
+  
+  <!DOCTYPE html>
+<html lang="en-ca"> <!--Decalare the language-->
+	<head>
+		<!--Include the Title of the Website-->
+		<title>Super20</title>
+		<!-- Jquery and Bootstrap -->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+		<!--Link the main.css fie-->
+		<link rel="stylesheet" href="assets/main.css">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+		<!--Decalare the meta type and content-->
+		<meta type="keywords" content="Super20, online store">
+		<!--Add the viewport meta tag to the head section of every page on your website, with the device-width value and initial scaling set to 1.-->
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+	</head>
+	
+	<body>
+		<!--Include the Super20 logo-->
+		<header>
+			<div class="header">
+				<a href="index.htm"><img src="images/logo.jpg"></a>
+				<p>Welcome to the Super 20 Online Fashion Store</p>
+			</div>
+			
+			<!--Declare the Navigation bar-->
+			<nav>
+				<ul>
+					<li>
+						<a href="javascript:void(0);" class="icon" onclick="myFunction()">
+							<i class="fa fa-bars"></i>
+						</a>
+					</li>
+					<li>
+						<div class="search-container">
+							<form action="#">
+								<input type="text" placeholder="Search.." name="search">
+								<button type="submit">Submit</button>
+							</form>
+						</div>
+					</li>
+					<li><a class="menu-items" href="cart.htm">Cart</a></li>
+					<li><a class="menu-items" href="product.htm">Product</a></li>
+					<li><a class="menu-items" href="products.htm">Products</a></li>
+					<li><a class="menu-items" href="contact-us.htm">Contact Us</a></li>
+					<li><a class="menu-items" href="about-us.htm">About Us</a></li>
+					<li><a class="menu-items" href="index.htm">Home</a></li>
+				</ul>
+			</nav>
+			
+			<h1 style="text-align:center">Product List</h1>
+		</header>
+		<!--create the Product Card-->
+		<main>
+			<h1>
+				<div class="card">
+					<img src="images/cap1.jpg" alt="Cap" style="width:85%">
+					<h1>Stylish Cap</h1>
+					<p class="price">$10.99</p>
+					<p>Black Color Cap</p>
+					<p><button>Add to Cart</button></p>	
+				</div>
+				
+				<div class="card">
+					<img src="images/shoe1.jpg" alt="Shoes" style="width:85%">
+					<h1>Comfortable Shoes</h1>
+					<p class="price">$18.99</p>
+					<p>Black Color</p>
+					<p><button>Add to Cart</button></p>	
+				</div>
+				
+				<div class="card">
+					<img src="images/tshirt1.jpg" alt="Tshirt" style="width:85%">
+					<h1>Regular Tshirt</h1>
+					<p class="price">$7.99</p>
+					<p>Orange Color</p>
+					<p><button>Add to Cart</button></p>
+				</div>
+			</h1>	
+		</main>
+				
+		<!--include copyright, Privacy Policy, and Terms and condition-->
+		<footer>
+			<a href="privacy.htm">Privacy Policy</a></p>
+			<a href="terms.htm">Terms & Condition</a></p>
+			<p>&copy;copyright 2023 Super20<br>
+		</footer>
+
+		<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    	<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+	</body>
+</html>

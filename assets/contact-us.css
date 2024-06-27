@@ -1,0 +1,20 @@
+/*
+ * Student Name: Dammika Pathirana 
+ * Student ID: 041089481
+ * Course: CST8117 - Cross-Platform Web Design
+ * Semester: 22W
+ * Assignment: 4
+ * Date Submitted:: 16/04/23  
+ */
+.form-cotainer {
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    padding: 15px;
+    margin: auto;
+    width: 60%;
+	background-color: limegreen;
+}
+
+.input-error {
+    color: red !important;
+}
+
